@@ -1,1 +1,1 @@
-Reacr Javascript.
+React Javascript.
